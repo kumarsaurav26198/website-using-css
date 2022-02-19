@@ -211,3 +211,35 @@
   </symbol>
 </svg>
 
+<!-- 
+   <svg class="icon icon--primary">
+        <use xlink:href="Image/sprite.svg#settings"></use>
+    </svg>
+    <svg class="icon icon--secondary">
+        <use xlink:href="Image/sprite.svg#easy"></use>
+    </svg>
+
+
+    
+    <svg class="icon ">
+        <use xlink:href="Image/sprite.svg#growth"></use>
+    </svg>
+    <svg class="icon">
+        <use xlink:href="Image/sprite.svg#menu"></use>
+    </svg>
+    <svg class="icon">
+        <use xlink:href="Image/sprite.svg#search"></use>
+    </svg>
+    <svg class="icon">
+        <use xlink:href="Image/sprite.svg#line"></use>
+    </svg>
+    <svg class="icon">
+        <use xlink:href="Image/sprite.svg#quotes"></use>
+    </svg>
+    <svg class="icon">
+        <use xlink:href="Image/sprite.svg#clock"></use>
+    </svg>
+    <svg class="icon">
+        <use xlink:href="Image/sprite.svg#Computer-Engineer-Coding-Programing-Configulation"></use>
+    </svg>
+ -->
